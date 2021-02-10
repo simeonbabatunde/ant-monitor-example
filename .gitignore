@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+*.apk
+*.ap_
+*.aab
+                           
+# files for the dex VM
+*.dex
+                            
+# Java class files
+*.class
+                            
+# generated files
+bin/
+gen/
+Thumbs.db
+.navigation
+captures/
+output.json 
+    
+#NDK
+obj/
+.externalNativeBuild
